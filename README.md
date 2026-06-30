@@ -119,9 +119,9 @@ A responsive shopping platform featuring product browsing, shopping cart managem
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthikdn-11&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikdn-11&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -137,7 +137,7 @@ A responsive shopping platform featuring product browsing, shopping cart managem
 
 <p align="center">
 
-[![Karthik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Karthik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikdn-11&theme=tokyo-night)](https://github.com/karthikdn-11)
 
 </p>
 
@@ -189,11 +189,11 @@ while(alive){
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/karthikdn-11">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/karthikdn-11">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -201,7 +201,7 @@ while(alive){
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/u/beginnerKDN11/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
