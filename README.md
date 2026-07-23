@@ -154,20 +154,6 @@ A responsive shopping platform featuring product browsing, shopping cart managem
 
 ---
 
-# 📌 Pinned Repositories
-
-⭐ **Soft Tissue Tumor Detection using GM-UNet**
-
-Machine Learning • Medical Image Analysis • Deep Learning
-
-⭐ **Open Source Job Portal**
-
-JavaScript • SQL • Full Stack Development
-
-⭐ **Responsive E-Commerce Website**
-
-Responsive UI • Shopping Cart • Frontend Development
-
 ---
 
 # 🎯 Currently Exploring
