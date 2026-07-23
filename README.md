@@ -221,7 +221,7 @@ while(alive){
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
-```
+
 
 <!--
 **karthikdn-11/karthikdn-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
